@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+h1 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bd-callout {
+  font-size: 20px;
+  text-indent: 1%;
+}
+
+.bd-callout-warning {
+  border-left-color: grey;
+  border-left-style: solid;
+  background-color: lightyellow;
+  text-indent: 1%;
+  font-size: 20px;
+}
